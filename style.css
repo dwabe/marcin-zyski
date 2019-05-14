@@ -1,1 +1,39 @@
+.body {
+    margin: 0 auto;
+}
 
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    height: 700px;
+}
+
+.upperpart {
+    width: 100%;
+    height:400px;
+}
+
+.square1,
+.square2,
+.square3,
+.square4 {
+    width: 25%;
+    height: 300px;
+    margin: 5px;
+}
+
+.square1 {
+    background-color: #1E59A7;
+}
+
+.square2 {
+    background-color: #FBE04F;
+}
+
+.square3 {
+    background-color: #E03C34;
+}
+
+.square4 {
+    background-color: #F2F2F2;
+}
