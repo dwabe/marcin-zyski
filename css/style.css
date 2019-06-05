@@ -89,7 +89,27 @@ button {
   color: white;
 }
 
-.sounds {
+.sounds,
+.pictures,
+.words,
+.blog {
   height: 100vh;
+}
+
+.sounds {
+  background: #B7CEEC;
+  margin-top: 10px;
+}
+
+.pictures {
+  background: #FFF5C0;
+}
+
+.words {
+  background: #FFC3C0;
+}
+
+.blog {
+  background: #FFF6F6;
 }
 /*# sourceMappingURL=style.css.map */
